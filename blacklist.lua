@@ -1,1 +1,3 @@
+blacklist = {}
 
+return blacklist;
