@@ -1,2 +1,4 @@
-# Katers-Source
-yeah
+# Script
+```lua
+print("s")
+```
