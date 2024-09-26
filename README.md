@@ -1,7 +1,7 @@
 # Script
 ```lua
 getgenv().settings = {
-    host = --UserId here!
+    host = 0--UserId here!
 }
 ```
 ```lua
